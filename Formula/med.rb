@@ -1,4 +1,4 @@
-class med < Formula
+class Med < Formula
     desc "A simple enough CLI tool with auditable capability for Data Masking/Encyption/Decryption for CSV/JSON files."
     homepage "https://github.com/jayhuang75/homebrew-med"
     url "https://github.com/jayhuang75/rust-cli-med/releases/download/0.6.2/macos_x86_archive-0.6.2.tar.gz"
