@@ -14,5 +14,5 @@ jobs:
            - name: read
              shell: bash
              run: |
-                echo ${{ GITHUB_ENV.hello }}
-                echo ${{ GITHUB_ENV.SHASUM }}
+                echo ${{ env.hello }}
+                echo ${{ env.SHASUM }}
