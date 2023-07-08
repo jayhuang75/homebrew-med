@@ -7,6 +7,6 @@ class Med < Formula
     version "0.6.4"
   
     def install
-      bin.install "./med-0.6.3/med"
+      bin.install "./med-0.6.4/med"
     end
   end
